@@ -47,3 +47,6 @@ This project is configured for deployment on Netlify. To deploy:
    5. Build settings are pre-configured in netlify.toml
 
 The site will be automatically built and deployed whenever you push changes to your repository.
+
+> 🔍 Disclaimer: This project is not affiliated with or endorsed by Amazon. It is for educational and demonstration purposes only.
+
