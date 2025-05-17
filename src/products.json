@@ -1,0 +1,78 @@
+{
+    "products": [{
+            "id": 1,
+            "name": "Eco-Friendly Water Bottle",
+            "price": 24.99,
+            "rating": 4.5,
+            "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+            "description": "A sustainable alternative to single-use plastic bottles. Made from recycled materials, this water bottle keeps your drinks cold for 24 hours and hot for 12 hours.",
+            "ecoStats": {
+                "carbonFootprint": "0.5 kg CO2",
+                "recyclable": true,
+                "biodegradable": false,
+                "sustainableMaterials": ["Recycled Stainless Steel", "BPA-free Plastic"],
+                "waterUsage": "Minimal"
+            }
+        },
+        {
+            "id": 2,
+            "name": "Bamboo Cutlery Set",
+            "price": 19.99,
+            "rating": 4.8,
+            "image": "https://images.unsplash.com/photo-1584346133934-a3afd2a33c4c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+            "description": "Portable bamboo cutlery set including fork, knife, spoon, and chopsticks. Perfect for reducing plastic waste while dining on-the-go.",
+            "ecoStats": {
+                "carbonFootprint": "0.2 kg CO2",
+                "recyclable": false,
+                "biodegradable": true,
+                "sustainableMaterials": ["Organic Bamboo"],
+                "waterUsage": "Low"
+            }
+        },
+        {
+            "id": 3,
+            "name": "Solar Power Bank",
+            "price": 49.99,
+            "rating": 4.3,
+            "image": "https://images.unsplash.com/photo-1620827195512-6422eaa4a2a6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+            "description": "10000mAh solar-powered charging bank with dual USB ports. Harness the sun's energy to charge your devices anywhere.",
+            "ecoStats": {
+                "carbonFootprint": "1.2 kg CO2",
+                "recyclable": true,
+                "biodegradable": false,
+                "sustainableMaterials": ["Recycled Plastic", "Solar Panels"],
+                "waterUsage": "Very Low"
+            }
+        },
+        {
+            "id": 4,
+            "name": "Organic Cotton Tote Bag",
+            "price": 15.99,
+            "rating": 4.7,
+            "image": "https://images.unsplash.com/photo-1597484662317-9bd7bdda2907?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+            "description": "Durable organic cotton tote bag perfect for shopping. Reduces the need for plastic bags and looks stylish.",
+            "ecoStats": {
+                "carbonFootprint": "0.3 kg CO2",
+                "recyclable": false,
+                "biodegradable": true,
+                "sustainableMaterials": ["Organic Cotton"],
+                "waterUsage": "Moderate"
+            }
+        },
+        {
+            "id": 5,
+            "name": "Recycled Paper Notebook",
+            "price": 12.99,
+            "rating": 4.6,
+            "image": "https://images.unsplash.com/photo-1531346680769-a1d79b57de5c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+            "description": "100% recycled paper notebook with biodegradable cover. Perfect for eco-conscious note-taking.",
+            "ecoStats": {
+                "carbonFootprint": "0.1 kg CO2",
+                "recyclable": true,
+                "biodegradable": true,
+                "sustainableMaterials": ["Recycled Paper", "Natural Dyes"],
+                "waterUsage": "Low"
+            }
+        }
+    ]
+}
